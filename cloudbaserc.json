@@ -2,13 +2,13 @@
     "envId": "{{env.ENV_ID}}",
     "version": "2.0",
     "framework": {
-      "name": "python-hello-world",
+      "name": "python-get-time",
       "plugins": {
         "container": {
           "use": "@cloudbase/framework-plugin-container",
           "inputs": {
-            "serviceName": "python-hello-world",
-            "servicePath": "/python-hello-world",
+            "serviceName": "python-get-time",
+            "servicePath": "/python-get-time",
             "containerPort": 8080
           }
         }

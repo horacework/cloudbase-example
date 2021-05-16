@@ -7,8 +7,8 @@
         "container": {
           "use": "@cloudbase/framework-plugin-container",
           "inputs": {
-            "serviceName": "python-get-time",
-            "servicePath": "/python-get-time",
+            "serviceName": "python-hello-world",
+            "servicePath": "/python-hello-world",
             "containerPort": 8080
           }
         }
